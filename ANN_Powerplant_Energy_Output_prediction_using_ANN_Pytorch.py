@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+#importing data & defining x,y
 df=pd.read_csv("powerplant_data.csv")#data loading & preprocessing
 x=df.drop("PE",axis=1)
 y=df["PE"]
