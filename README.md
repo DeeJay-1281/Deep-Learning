@@ -1,4 +1,4 @@
-This repo have all Deep Learning based minor projects 
+This repo have all Deep Learning based minor projects :
 
 1)ANN based Powerplant energy prediction 
 
