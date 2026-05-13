@@ -127,6 +127,7 @@ with torch.no_grad():
 
 print("Traing MSE : ",train_mse_loss.item())
 print("Test MSE : ",test_mse_loss.item())
+
 #evaluate model
 
 from sklearn.metrics import r2_score
